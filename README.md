@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Simbarashe Kandemiri>`
+- **CCID:** `<skandemi>`
 
 ## References and Resources
 
